@@ -1,8 +1,9 @@
 #https://isa-ko.github.io/Indigo/index
 #bundle exec jekyll serve
+#bundle add webrick
 # main text of home
-title: Isa ko
-bio: A Person who travels the world eating noodles
+title: Isa Ko
+bio: Many little things add up something great
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -20,8 +21,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
-
+resume-url: www.linkedin.com/in/isako-link
 url: https://isa-ko.github.io/Indigo
 # your url: https://USERNAME.github.io
 
@@ -36,8 +36,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: mylinkedin
-github: mygithub
+linkedin: www.linkedin.com/in/isako-link
+github: https://github.com/Isa-ko/Indigo
 email: jm30617@gmail.com
 
 authors:
