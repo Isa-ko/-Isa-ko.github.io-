@@ -21,7 +21,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: www.linkedin.com/in/isako-link
+resume-url: https://drive.google.com/file/d/194TaM_Dg1nT-g1L_eN3FVaJ6leC0F6e3/view?usp=sharing
 url: https://isa-ko.github.io/Indigo
 # your url: https://USERNAME.github.io
 
@@ -36,7 +36,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: www.linkedin.com/in/isako-link
+linkedin: www.linkedin.com/in/Isakolink
 github: https://github.com/Isa-ko/Indigo
 email: jm30617@gmail.com
 
